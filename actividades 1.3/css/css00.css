@@ -7,9 +7,7 @@ body{
     font-family:"Roboto" ;
 }
 
-img{
-    width: 150px;
-}
+
 
 header{
     
@@ -47,4 +45,8 @@ header > div > div > div  >a {
     border-radius: 15px;
 
     
+}
+#carouselExample{
+    margin: 0 auto;
+    width: 390px;
 }
