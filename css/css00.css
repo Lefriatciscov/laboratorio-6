@@ -1,0 +1,35 @@
+
+body{
+    margin: 0 auto;
+    
+    
+    text-align: center;
+    font-family:"Roboto" ;
+}
+
+header{
+    
+    background:  linear-gradient(
+        135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 8px 32px 0 rgba(255,255,255,0.37);
+    border: 1px solig rgba(255,255,255,0.18);
+    border-radius: 32;
+}
+
+header > div > div > div  >a {
+    color: rgb(207, 207, 204);
+    background-color: rgba(0, 0, 255, 0.297);
+    text-decoration: none;
+    padding: 5px;
+    border-radius:  5px;
+    border: black 1px solid;
+    font-size: 20px;
+}
+
+.texto{
+    color: black;
+    width: 150px;
+    background-color: aliceblue;
+}
